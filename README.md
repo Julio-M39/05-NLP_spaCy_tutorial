@@ -1,5 +1,9 @@
 # 05-NLP_spaCy_tutorial
 
+OBS: Caso o Github não renderize o arquivo .ipynb use os links abaixo:
+
+- <a href="https://nbviewer.org/github/Julio-M39/05-NLP_spaCy_tutorial/blob/main/NLP%20spaCy.ipynb">NLP spaCy.ipynb</a> 
+
 # Introdução prática ao spaCy
 
 - Etapa 1: Instalação spaCy
